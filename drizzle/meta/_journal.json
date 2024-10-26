@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1728699589062,
+      "tag": "0000_stiff_aqueduct",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1728700693192,
+      "tag": "0001_robust_odin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1729015006422,
+      "tag": "0002_brown_ser_duncan",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1729024721318,
+      "tag": "0003_flawless_sugar_man",
+      "breakpoints": true
+    }
+  ]
+}
